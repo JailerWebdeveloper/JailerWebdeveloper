@@ -32,6 +32,8 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
+- 🧳 Take a look at my porfolio**
+
 - 📫 Feel free to reach me out **Jailerwebwork@gmail.com**
 <!--Intro end-->
 
@@ -61,7 +63,10 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/jailer-dev-frontend/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
-</p>
+  <a href="Mailto:jailerwebwork@gmail.com" target="blank"><img align="center" src="https://github.com/JailerWebdeveloper/JailerWebdeveloper/assets/129340910/c0fc634b-2fa2-4169-8dc0-473822932ce9" alt="EMAIL" height="50" width="50" /></a>  
+
+</p>!
+
 
 
 <!--profile visit count-->

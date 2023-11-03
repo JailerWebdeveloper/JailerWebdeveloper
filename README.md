@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 🧳 Take a look at my porfolio  **https://jailerwebdeveloper.github.io/portal/**
+- 🧳 Take a look at my porfolio  **https://jailerwebdeveloper.github.io/-Jailer-Portfolio/**
 
 - 📫 Feel free to reach me out **Jailerwebwork@gmail.com**
 <!--Intro end-->
